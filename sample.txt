@@ -5,3 +5,4 @@ pull リモートリポジトリの内容を取得する
 追記
 Issue2
 Issue3
+Issue4
