@@ -6,3 +6,4 @@ pull リモートリポジトリの内容を取得する
 Issue2
 Issue3
 Issue4
+Issue5
